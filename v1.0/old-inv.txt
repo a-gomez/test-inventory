@@ -1,1 +1,3 @@
 This represents the "old", but current/master version of the script. It is not object-oriented. 
+
+Now, I've added a bug fix or something which we want to have in all future versions. Maybe time for a rebase?
