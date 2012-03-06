@@ -4,12 +4,6 @@ This is the newest script, being written via TDD, sometimes referred to as v1.5.
 
 At the time of this writing, it is a series of classes (a computer and various in/out strategies). 
 
-<<<<<<< HEAD
 This is cool new dev stuff. It's going to stay separate from our master.
-=======
-Here are some new changes for the dev branch! Woohoo!
-
-This is an experiment with the strategy pattern. It should be successful.
 
 Total experiment. That was cool. Now it's been tested and we know it's good to go, back to the dev. Woohoo!
->>>>>>> strategy-pattern
