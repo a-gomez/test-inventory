@@ -8,4 +8,4 @@ Here are some new changes for the dev branch! Woohoo!
 
 This is an experiment with the strategy pattern. It should be successful.
 
-Total experiment. Keep it separate!
+Total experiment. That was cool. Now it's been tested and we know it's good to go, back to the dev. Woohoo!
